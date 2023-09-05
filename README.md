@@ -13,7 +13,7 @@ Assignment for UT Data Analysis and Visulization Bootcamp to pratice using PyMon
 Connect to a database, query and update the database.
 
 ## Getting Started
-All necessary files are located in this nosql-challenge repository. \
+All necessary files are located in this nosql-challenge repository.\
 
 The Resources folder contains establishments.json which is the collection for the uk_food database. \
 This must be imported first! Git bash into the Resources folder and enter the following command.
@@ -41,16 +41,16 @@ Run NoSQL_analysis.ipynb in jupyter lab.
 
 
 ## Contributing
-Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. Hopefully y'all like it better. \
+Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. Hopefully y'all like it better.\
 
-The materials for class lectures were my biggest references. \
+The materials for class lectures were my biggest references.\
 
 
 The following websites were helpful for syntax or understanding how things worked. \
 https://www.geeksforgeeks.org/  \
 https://stackoverflow.com/  \
 https://www.mongodb.com/  \
-https://pymongo.readthedocs.io/en/stable/index.html  \
+https://pymongo.readthedocs.io/en/stable/index.html  
 
 
 
